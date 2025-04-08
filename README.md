@@ -24,6 +24,6 @@ GET http://localhost:8080/not-supported (not supported propagation)
 
 GET http://localhost:8080/never (never propagation)
 
-POST http://localhost:8080/nested (nested propagation)
+GET http://localhost:8080/nested (nested propagation)
 
 GET http://localhost:8080/logs (logs propagation)
